@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "トラフ",
+  "base_artist": "TAKU INOUE",
+  "createdAt": "2026-02-12T12:34:12.243634Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トラフ (feat. にんじん from ロクデナシ)",
+      "artist": "TAKU INOUE",
+      "has_synced": false,
+      "path": "select/pl_01_トラフ_(feat._にんじん_from_ロクデナシ)_TAKU_INOUE.txt"
+    }
+  ]
+}
